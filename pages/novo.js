@@ -3,7 +3,7 @@ const Novo = () => {
     <div>
       Novo
     </div>
-  );
+  )
 }
 
-export default Novo;
+export default Novo
